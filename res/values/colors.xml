@@ -34,7 +34,8 @@
          a light UI more visible. -->
     <drawable name="screen_background_light_transparent">#80ffffff</drawable>
     <color name="safe_mode_text">#80ffffff</color>
-    <color name="color_primary_focus">#ff99cc00</color>
+    <color name="color_primary_focus">#ff12bdd0</color>
+    <color name="color_primary_press">#ff80d6de</color>
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
     <color name="transparent">#00000000</color>
@@ -60,15 +61,15 @@
     <drawable name="input_method_fullscreen_background">#fff9f9f9</drawable>
 
     <!-- For date picker widget -->
-    <drawable name="selected_day_background">#ff0092f4</drawable>
+    <drawable name="selected_day_background">#ff12bdd0</drawable>
 
     <!-- For settings framework -->
     <color name="lighter_gray">#ddd</color>
     <color name="darker_gray">#aaa</color>
 
     <!-- For security permissions -->
-    <color name="perms_dangerous_grp_color">#ff99cc00</color>
-    <color name="perms_dangerous_perm_color">#ff66cc00</color>
+    <color name="perms_dangerous_grp_color">#ff80d6de</color>
+    <color name="perms_dangerous_perm_color">#ff12bdd0</color>
     <color name="shadow">#cc222222</color>
 
     <color name="launcher_glow_pressed">#ff80d6de</color>

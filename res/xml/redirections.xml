@@ -51,4 +51,12 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_deskclock" />
 
+    <package-redirections android:name="com.android.wallpaper"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_wallpaper" />
+
+    <package-redirections android:name="com.android.systemui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_systemui" />
+
 </theme-redirections>
